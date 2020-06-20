@@ -3,6 +3,7 @@
 Repository to keep tracked the katas proposed in DATA ANALYTICS PT BCN JUN 2020
 
 **Code Wars**
+
 You need to create an account in https://www.codewars.com to complete the Katas Challenges.
 
 **Instructions**
