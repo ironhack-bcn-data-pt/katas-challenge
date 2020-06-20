@@ -2,7 +2,7 @@
 
 Repository to keep tracked the katas proposed in DATA ANALYTICS PT BCN JUN 2020
 
-## Code Wars**
+## Code Wars
 
 You need to create an account in https://www.codewars.com to complete the Katas Challenges.
 
@@ -17,12 +17,12 @@ wont be accepted.
 
 Katas will be posted as issues, so be aware and subscribe to the katas label
 
-## Scoring method**
+## Scoring method
 
     1st: 2 points
     2nd and 3rd: 1.5 points
     Rest: 1 point
 
-## Extra Feature**
+## Extra Feature
 
 If you deliver your solution out of the deadline you will obtain 0.5 points 💃 🕺
