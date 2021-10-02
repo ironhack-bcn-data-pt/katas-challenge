@@ -1,6 +1,6 @@
 # Katas Challenge
 
-Repository to keep tracked the katas proposed in DATA ANALYTICS PT BCN JUN 2020
+Repository to keep tracked the katas proposed in DATA ANALYTICS PT BCN SEP 2021
 
 ## Code Wars
 
@@ -19,8 +19,8 @@ Katas will be posted as issues, so be aware and subscribe to the katas label
 
 ## Scoring method
 
-    1st: 2 points
-    2nd and 3rd: 1.5 points
+    1st: 3 points
+    2nd and 3rd: 2 points
     Rest: 1 point
 
 ## Extra Feature
